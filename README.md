@@ -60,7 +60,7 @@ i1f.ki1f>ki6f+ki1f.ki1f>ki1f+ki1f.ki1f>ki5f+ki1f.ki1f>ki6f+ki1f.k
 
 ```console
 $ python compressor.py
-$ (c)ompress / d(e)compress: d
+$ (c)ompress / (d)ecompress: d
 $ Filename: testc
 $ Filename: testd
 ```
